@@ -1,0 +1,208 @@
+body{
+    background-color: bisque;
+}
+#img{
+    position: absolute;
+    width: 150px;
+    height:120px;
+    left: 150px;
+    top: 80px;
+    border-radius: 65%;
+}
+.header{
+    width: 100%;
+    height: 150px;
+    background-image: linear-gradient(to right, violet, red, blue);
+}
+h1{
+    position: relative;
+    color: black;
+    text-align: center;
+    top: 20px;
+}
+span{
+    position: relative;
+    color: black;
+    text-align: center;
+    left: 40px;
+    bottom: 10px;
+}
+h2{
+    color: black;
+    text-align: center;
+    padding: 40px;
+}
+.one{
+    width: 300px;
+    height: 250px;
+    margin:70px 0px 0px 50px;
+    border-radius: 10px;
+    background-color: rgb(105, 105, 250);
+}
+.one:hover{
+    box-shadow: 10px 10px 10px 10px rgb(113, 113, 178);
+}
+#button1{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    left: 90px;
+    top: 30px;
+    display:inline-block;
+    background-color: rgb(19, 221, 53);
+    border-radius: 5px ;
+    border:none;
+    color: white;
+    font: 30px italic;
+    transition: 0.3s;
+}
+#button1:hover{
+    box-shadow:inset 100px 0 100px 0 yellow;
+    cursor: pointer;
+    color:red;
+}
+.one1{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:20px;
+    bottom:120px;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 249, 0.933);
+    border-bottom: 5px rgb(105, 105, 250) outset;
+}
+.one1:hover{
+    box-shadow: 10px 10px 10px 10px rgb(212, 236, 246);
+
+}
+.two{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:400px;
+    bottom: 550px;
+    border-radius: 10px;
+    background-color: rgb(249, 81, 3);
+}
+.two:hover{
+    box-shadow: 10px 10px 10px 10px rgb(155, 85, 52);
+}
+#button2{
+    position: relative;;
+    width: 100px;
+    height: 50px;
+    left: 90px;
+    top: 30px;
+    display: inline-block;
+    background-color: rgb(19, 204, 221);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font: 30px italic;
+    transition: 0.3s;
+}
+#button2:hover{
+    box-shadow: inset 100px 0 100px 0 rgb(215, 18, 182);
+    cursor: pointer;
+    color:red;
+}
+.two2{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:375px;
+    bottom:700px;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 249, 0.933);
+    border-bottom:5px rgb(249, 81, 3) outset;
+}
+.two2:hover{
+    box-shadow: 10px 10px 10px 10px rgb(240, 140, 117);
+}
+.three{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:750px;
+    bottom: 1050px;
+    border-radius: 10px;
+    background-color: rgb(151, 246, 125);
+}
+.three:hover{
+    box-shadow: 10px 10px 10px 10px rgb(23, 106, 0);
+}
+#button3{
+    position: relative;
+    width: 110px;
+    height: 50px;
+    left: 90px;
+    top: 30px;
+    display: inline-block;
+    background-color: rgb(43, 19, 221);
+    border:none;
+    border-radius: 5px;
+    color: white;
+    font: 30px italic;
+    transition:0.3s;
+}
+#button3:hover{
+    box-shadow: inset 100px 0 100px 0 rgb(215, 18, 38);
+    cursor: pointer;
+    color:rgb(60, 0, 255);
+}
+.three3{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:725px;
+    bottom: 1200px;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 249, 0.933);
+    border-bottom:5px rgb(151, 246, 125) outset;
+}
+.three3:hover{
+    box-shadow: 10px 10px 10px 10px rgb(187, 243, 201);
+}
+.four{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    bottom: 1600px;
+    left: 1100px;
+    border-radius: 10px;
+    background-color: rgb(242, 160, 101);
+}
+.four:hover{
+    box-shadow: 10px 10px 10px 10px rgb(151, 78, 6);;
+}
+#button4{
+    position: relative;
+    width: 100px;
+    height: 50px;
+    left: 90px;
+    top: 30px;
+    background-color: rgb(243, 243, 250);
+    border: none;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    font: 30px italic;
+    transition:0.3s;
+}
+#button4:hover{
+    box-shadow: inset 100px 0 100px 0 rgb(47, 5, 9);
+    cursor: pointer;
+    color:rgb(236, 235, 239);
+}
+.four4{
+    position: relative;
+    width: 300px;
+    height: 250px;
+    left:1075px;
+    bottom: 1720px;
+    border-radius: 10px;
+    background-color: rgba(245, 245, 249, 0.933);
+    border-bottom:5px rgb(242, 160, 101) outset;
+}
+.four4:hover{
+    box-shadow: 10px 10px 10px 10px rgb(239, 173, 114);
+}

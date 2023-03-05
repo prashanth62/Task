@@ -1,0 +1,17 @@
+
+#fieldset1{
+    width: 700px;
+    height: 60px;
+}
+#insertbutton{
+    position: relative;
+    bottom:14.2px;
+    right:0px;
+    height: 36px;
+} 
+#fieldset2{
+    position: relative;
+    top: 20px;
+    width: 700px;
+    height: 100px;
+}

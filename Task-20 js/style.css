@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+#Box{
+    position: relative;
+    left: 690px;
+    width: 250px;
+    height: 25px;
+    background-color: darkgray;
+    border: 1px solid black;
+}
+#label{
+    position: relative;
+    left: 5px;
+    top: 5px;
+}
+#submit{
+    position: relative;
+    left: 70px;
+    top: 5px;
+}
+.demo{
+    position: relative;
+    left: 500px;
+    top: 50px;
+    font-size: 50px;
+    border: none;
+}

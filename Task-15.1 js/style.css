@@ -1,0 +1,91 @@
+.div1{
+    width: 50%;
+    height: 70vh;
+    background-color: rgb(0, 121, 119);
+    position: relative;
+    left: 40vh;
+    top: 8vh;
+    border-radius: 10px ;
+}
+h1{
+    position: relative;
+    left: 350px;
+    top: 150px;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.email{
+    position: relative;
+    left: 70px;
+    top: 150px;
+    font-size: 50px;
+}
+.password{
+    position: relative;
+    left: 70px;
+    top: 150px;
+    font-size: 50px;
+}
+#id{
+    position: absolute;
+    width: 36px;
+    bottom:10px;
+    left: 220px;
+    border-radius: 50%;
+    opacity: 0.3;
+    z-index: 1;
+
+}
+#lockicon{
+    position: absolute;
+    width: 35px;
+    top: 13px;
+    bottom: 100px;
+    left: 220px;
+    border-radius: 45%;
+    opacity: 0.3;
+}
+#mail{
+    position: relative;
+    bottom: 10px;
+    left: 72px;
+    width: 50vh;
+    height: 4vh;
+    border-radius: 5px;
+    border:none;
+}
+#password{
+    position: relative;
+    bottom: 10px;
+    width: 50vh;
+    height: 4vh;
+    border: none;
+    border-radius: 5px;
+}
+#button{
+    position: relative;
+    left: 350px;
+    top: 200px;
+    font-size: 30px;
+    border-radius: 5px;
+    border: none;
+}
+#openeye{
+    position:absolute;
+    width: 22px;
+    left: 77.5%;
+    bottom:16px;
+}
+#closeeye{
+    position:absolute;
+    width: 22px;
+    left: 77.5%;
+    bottom:16px;
+    z-index: -1;
+}
+#demo{
+    position: relative;
+    top: 200px;
+    left: 200px;
+    color: brown;
+}

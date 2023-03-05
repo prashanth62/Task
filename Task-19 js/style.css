@@ -1,0 +1,53 @@
+#container1{
+    width: 650px;
+    height: 265px;
+    border-radius: 50px;
+    margin: 200px 0px 0px 400px ;
+    background-color:darkgray;
+}
+#Copytext{
+    position: relative;
+    left: 10%;
+}
+#pastetext{
+    position: absolute;
+    top: 27.5%;
+    right: 40%;
+}
+h3{
+    position: relative;
+    left: 10%;
+    top:5%;
+}
+#h3{
+    position: absolute;
+    left: 45%;
+    top: 22%;
+}
+#copy{
+    position: relative;
+    left: 23%;
+    top: 5%;
+    font-size: 20px;
+    background-color: rgb(178, 178, 11);
+    border-radius: 5px;
+    border: none
+}
+#paste{
+    position: relative;
+    left: 44%;
+    top: 5%;
+    font-size: 20px;
+    background-color:rgb(99, 171, 248);
+    border-radius: 5px;
+    border: none
+}
+#clear{
+    position: relative;
+    left: 53%;
+    top: 5%;
+    font-size: 20px;
+    background-color: rgb(99, 248, 203);
+    border-radius: 5px;
+    border: none
+}

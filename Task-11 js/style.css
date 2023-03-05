@@ -1,0 +1,37 @@
+.div1{
+    margin:0px 0px 0px 400px;
+    background-color: teal;
+    width: 800px;
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+}
+#result{
+    margin: 0px 0px 0px 60px;
+}
+#sqaure{
+    font-size: 20px;
+}
+#evenodd{
+    font-size: 20px;
+}
+#Prime{
+    font-size: 20px;
+}
+#Palindrom{
+    font-size: 20px;
+}
+#Reverse{
+    font-size: 20px;
+}
+#ArmStrong{
+    font-size: 20px;
+}
+.div2{
+    margin:20px 0px 0px 400px;
+    background-color: teal;
+    width: 800px;
+    height: 100%;
+    text-align: center;
+    font-size: 40px;
+}
